@@ -1,4 +1,4 @@
-name: test name blank.yml
+name: test-name-blank.yml
 
 on: [push]
 
